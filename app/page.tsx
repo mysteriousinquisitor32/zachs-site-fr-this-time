@@ -23,7 +23,7 @@ export default function Home() {
           height={30}
           style={{zIndex: "0"}}
         /> */}
-      o
+      <div className="w-[90%] h-0.5 bg-black rounded"></div>
       <h1 className="flex w-full mt-5 justify-center text-black text-xl font-bold text-center">Updates:<br />1.0 Release</h1>
       <ol>
         <li></li>
